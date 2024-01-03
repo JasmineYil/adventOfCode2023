@@ -1,9 +1,9 @@
-package day1
+package dayOne
 
 import java.io.File
 
 fun main() {
-    val puzzleFile = "src/day1/puzzleInput2.txt"
+    val puzzleFile = "src/dayOne/puzzleInputClarissa.txt"
     val puzzleInput = File(puzzleFile).readText()
     val puzzleValues = extractPuzzleValues(puzzleInput)
     val sum = puzzleValues.sum()

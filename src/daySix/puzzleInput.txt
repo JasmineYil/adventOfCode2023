@@ -1,0 +1,8 @@
+Jasmine:
+
+Time:        63     78     94     68
+Distance:   411   1274   2047   1035
+
+Clarissa:
+Time:        47     70     75     66
+Distance:   282   1079   1147   1062
